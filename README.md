@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # UTF Converter
-<img src="https://www.w3.org/International/articles/definitions-characters/index-data/encodings.png" width="250" height="250"> <br />
+<img src="https://www.w3.org/International/articles/definitions-characters/index-data/encodings.png" width="350" height="350"> <br />
 Utf converter supports utf-8 and utf-16 encoding. It can convert file with utf-8 encoding to utf-16 encoding and vice versa
 
 ## Compilation/Run
