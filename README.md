@@ -5,7 +5,7 @@ Utf converter supports utf-8 and utf-16 encoding. It can convert files of utf-8 
 
 ## Compilation/Run
 1. gcc -o converter utf16_to_utf8.c
-2. ./converter
+2. ./converter < data.txt
 
 ## Helpful Links: 
 1. http://www.columbia.edu/~fdc/utf8/(source of files)
