@@ -8,7 +8,7 @@ Utf converter supports utf-8 and utf-16 encoding. It can convert files of utf-8 
 2. ./converter < text_utf8.txt
 
 ## Helpful Links: 
-1. http://www.columbia.edu/~fdc/utf8/ (source of files)
+1. http://www.columbia.edu/~fdc/utf8/ (source of .txt)
 2. https://en.wikipedia.org/wiki/Character_encoding
 3. https://en.wikipedia.org/wiki/UTF-8
 4. https://en.wikipedia.org/wiki/UTF-16
