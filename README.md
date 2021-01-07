@@ -6,8 +6,10 @@
 UTF Converter supports UTF-8 and UTF-16 encoding. Using this repository, you can convert characters of UTF-8 encoding to UTF-16 encoding and vice versa.
 
 ## Compilation and Execution
-1. gcc -o converter utf8_to_utf16.c
-2. ./converter < text_utf8.txt
+```
+$ gcc -o converter utf8_to_utf16.c
+$. ./converter < text_utf8.txt
+```
 
 ## Helpful Links: 
 1. http://www.columbia.edu/~fdc/utf8/ (text_utf8.txt file has been taken from here)
