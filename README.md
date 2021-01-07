@@ -8,7 +8,7 @@ UTF Converter supports UTF-8 and UTF-16 encoding. Using this repository, you can
 ## Compilation and Execution
 ```
 $ gcc -o converter utf8_to_utf16.c
-$. ./converter < text_utf8.txt
+$ ./converter < text_utf8.txt
 ```
 
 ## Helpful Links: 
