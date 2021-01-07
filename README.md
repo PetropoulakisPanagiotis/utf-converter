@@ -1,7 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # UTF Converter
+<p align="center"
 <img src="https://www.w3.org/International/articles/definitions-characters/index-data/encodings.png" width="470" height="320"> <br />
 Utf converter supports utf-8 and utf-16 encoding. It can convert files of utf-8 encoding to utf-16 encoding and vice versa(use redirection)
+</p>
 
 ## Compilation/Run
 1. gcc -o converter utf8_to_utf16.c
